@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* font-family: poppins,sans-serif; */
+    font-family: 'titillium';
+}
+
+.Yolo h1{
+    font-style: oblique;
+    font-size: 60px;
+    text-align: center;
+    color: #228B22;
+    margin-top: 90px;
+}
+.back{
+    position: absolute;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+    z-index: -1;
+    width: 100%;
+}
+.p1{
+    text-align: center;
+    color: #a1a9ab;
+    font-size: 30px;
+    padding: 30px;
+    margin-top: 7px;
+    
+}
+.p2{
+    text-align: left;
+    margin-top: 10px;
+    margin-left: 30px;
+
+    
+}
+.p3{
+    text-align: center;
+    color: darkblue;
+    font-size: 25px;
+    padding: 60px;
+    margin-top: 950px;
+}
+
+.vid{
+    display: flex;
+    justify-content: center;
+   
+ 
+}
